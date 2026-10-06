@@ -1,5 +1,4 @@
-# antioquia-esencia
-Sitio web demostrativo de turismo generado con IA
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
